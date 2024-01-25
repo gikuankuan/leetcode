@@ -19,7 +19,7 @@
             $chk_array = $nums;
                 if(Count($re_array) == 0 ){
                     $pre_num = $target - $nums[$i];
-                //    echo $pre_num."X".$target."X".$nums[$i];
+                   echo $pre_num."X".$target."X".$nums[$i];
                 //    exit();
                     unset($chk_array[$i]);
                     
